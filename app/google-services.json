@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866725651835",
+    "firebase_url": "https://securitemobile-29daf.firebaseio.com",
+    "project_id": "securitemobile-29daf",
+    "storage_bucket": "securitemobile-29daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866725651835:android:9d7c02674d1c4786",
+        "android_client_info": {
+          "package_name": "com.projet.esgi.smshack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866725651835-9ubs80ks55s83irger1io2mnqrv6d5bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTcdg18nK40rILzyi3Y-A0EVPAT2RLwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866725651835-9ubs80ks55s83irger1io2mnqrv6d5bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
